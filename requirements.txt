@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+dune-client
+matplotlib
+seaborn
+jupyter
