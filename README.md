@@ -12,8 +12,7 @@ Here you will find a collection of my analyses. Each project aims to answer a sp
 
 *(This section will be updated with links to my Dune Dashboards and project-specific documentation as they are completed.)*
 
--   **Project 1:** Solana Basic Stats Dashboard - [Link to Dune Dashboard](https://dune.com/user/lucasterrezo)
--   **Project 2:** (Coming soon)
+-   **Project 1:** Solana Basic Stats Dashboard - (Coming soon)
 
 ## Tech Stack
 
@@ -39,5 +38,6 @@ I'm a Data Analyst with nearly 10 years of experience in e-commerce and business
 
 -   **LinkedIn:** [linkedin.com/in/lucasterrezo](https://www.linkedin.com/in/lucasterrezo/)
 -   **Dune Profile:** [dune.com/a_night_lytics](https://dune.com/a_night_lytics)
+-   **Twitter:** [x.com/jalibrau](https://x.com/jalibrau)
 
 Feel free to reach out with any questions or collaboration ideas!
